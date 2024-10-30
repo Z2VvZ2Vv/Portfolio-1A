@@ -39,10 +39,10 @@
                     <p>Mes réseaux :</p>
                     <ul>
                         <li>
-                            <a href="https://github.com/Z2VvZ2Vv"><img src="image/github.png" alt="Mon GitHub" /></a>
+                            <a href="https://github.com/Z2VvZ2Vv"><img src="image/github.png" alt="Mon GitHub." /></a>
                         </li>
                         <li>
-                            <a href="https://x.com/Z2VvZ2Vv"><img src="image/x_logo.png" alt="Mon X" /></a>
+                            <a href="https://x.com/Z2VvZ2Vv"><img src="image/x_logo.png" alt="Mon X." /></a>
                         </li>
                     </ul>
                 </aside>
